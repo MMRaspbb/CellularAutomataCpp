@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+C:/studia/semestr4/cpp/projekt/GameOfLife/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+C:/studia/semestr4/cpp/projekt/GameOfLife/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+C:/studia/semestr4/cpp/projekt/GameOfLife/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+C:/studia/semestr4/cpp/projekt/GameOfLife/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+C:/studia/semestr4/cpp/projekt/GameOfLife/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+C:/studia/semestr4/cpp/projekt/GameOfLife/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+C:/studia/semestr4/cpp/projekt/GameOfLife/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+C:/studia/semestr4/cpp/projekt/GameOfLife/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+C:/studia/semestr4/cpp/projekt/GameOfLife/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+C:/studia/semestr4/cpp/projekt/GameOfLife/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+C:/studia/semestr4/cpp/projekt/GameOfLife/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule
